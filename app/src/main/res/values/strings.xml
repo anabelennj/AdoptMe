@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdoptMe</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="siguiente">Siguiente</string>
+
+</resources>
